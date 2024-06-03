@@ -69,7 +69,6 @@
             <p>Follow me on social media:</p>
             <ul>
                 <li><a href="https://www.instagram.com/savageangel_172" target="_blank">Instagram: @savageangel_172</a></li>
-                <li><a href="https://t.me/savageangel_172" target="_blank">Telegram: @savageangel_172</a></li>
             </ul>
         </section>
     </div>
